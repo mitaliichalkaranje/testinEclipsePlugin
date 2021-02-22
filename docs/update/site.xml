@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/HelloWorldFeature_1.0.0.202102221412.jar" id="HelloWorldFeature" version="1.0.0.202102221412"/>
+</site>
